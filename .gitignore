@@ -1,0 +1,10 @@
+dataset/
+models/*.h5
+models/*.keras
+models/*.tflite
+models/*.pt
+models/*.pth
+.env
+__pycache__/
+.venv/
+.ipynb_checkpoints/
